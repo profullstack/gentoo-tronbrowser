@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>tronbrowser</name>
+    <description>Gentoo overlay for TronBrowser - privacy-first, AI-native browser</description>
+    <homepage>https://tronbrowser.dev</homepage>
+    <owner>
+      <email>security@profullstack.com</email>
+      <name>Profullstack, Inc.</name>
+    </owner>
+    <source type="git">https://github.com/profullstack/gentoo-tronbrowser.git</source>
+  </repo>
+</repositories>

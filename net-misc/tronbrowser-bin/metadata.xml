@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="project">
+    <email>security@profullstack.com</email>
+    <name>Profullstack, Inc.</name>
+  </maintainer>
+  <longdescription lang="en">
+    TronBrowser is an open-source, privacy-first, AI-native browser built on
+    Ungoogled Chromium. This binary package installs the launcher and its bundled
+    extensions, and drives the system Ungoogled Chromium engine.
+  </longdescription>
+  <upstream>
+    <bugs-to>https://github.com/profullstack/tronbrowser.dev/issues</bugs-to>
+    <remote-id type="github">profullstack/tronbrowser.dev</remote-id>
+  </upstream>
+</pkgmetadata>
